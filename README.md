@@ -2,7 +2,7 @@
 
 ![AGROFIX Banner](/public/agrofix-banner.png)
 
-## [🔗 Live Demo](https://agrofix.vercel.app)
+## [🔗 Live Demo](https://agrofix-client-kappa.vercel.app/)
 
 ## Overview
 
